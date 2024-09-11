@@ -10,9 +10,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - [x] Comentários
 - [x] Declaração de variáveis (Const, let)
 - [x] Operadores (atribuição, concatenação, matemáticos, lógivos)
-- Tipos de dados (string, number, boolean)
-- Estrutura de dados (functions, object, array)
-- Controle de fluxo (if/else)
+- [x] Tipos de dados (string, number, boolean)
+- [x] Estrutura de dados (functions, object, array)
+- [x] Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
 # Fases da resolução de um problema
@@ -32,8 +32,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - [x] Booleam=n: true, false
 
 ## Operadores
-- [x] = Operação de atribuição de valor.
-- [x] + Operador de contacenação.
+- [x] Operação de atribuição de valor: =
+- [x] Operador de contacenação: +
+- [x] Operadores de comparação: == != < > <= >=
 
 ## Extrutura de dados:
 
@@ -55,6 +56,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Condicionais
 - [x] switch
+- [x] if/else
 
 ## Módulos em Node.js
 - [x] Importação de módulos (require, CommonJS)
