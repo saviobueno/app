@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Tomar 3L de água por dia",
+    "checked": true
+  },
+  {
+    "value": "Ir para academia todos os dias",
+    "checked": false
+  },
+  {
+    "value": "Estudar javascript",
+    "checked": false
+  },
+  {
+    "value": "verificar os e-mails e chat da empresa",
+    "checked": false
+  }
+]
