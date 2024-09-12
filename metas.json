@@ -9,10 +9,14 @@
   },
   {
     "value": "Estudar javascript",
-    "checked": false
+    "checked": true
   },
   {
     "value": "verificar os e-mails e chat da empresa",
     "checked": false
+  },
+  {
+    "value": "utilizar o git",
+    "checked": true
   }
 ]
